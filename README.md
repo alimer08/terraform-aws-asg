@@ -1,2 +1,6 @@
-# terraform-class-combined
-Started Class 2
+# Please copy paste the following code
+```
+
+
+
+```
